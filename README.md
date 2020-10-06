@@ -1,6 +1,12 @@
 # my_user_interfaces
 
-A new Flutter application.
+My first attempt to create a user interface in flutter.
+
+Guidelines which I followed to make this design - 
+
+1) Responsive design using MediaQuery.
+2) Resuability of Widgets wherever possible.
+
 
 ## Getting Started
 
