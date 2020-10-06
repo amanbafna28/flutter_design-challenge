@@ -3,11 +3,17 @@
 My first attempt to create a user interface in flutter.
 
 
-## This is the Design Inspiration which picked from Dribbble.
+## This is the Design Inspiration picked from Dribbble.
+
+
 
 ![fall-guys-challenge](https://user-images.githubusercontent.com/34833761/95182618-7d3bb380-07e2-11eb-8cca-8ab30fcbd1fd.JPG)
 
+
+
 ## Design implemented
+
+
 
 ![fall-guys-preview](https://user-images.githubusercontent.com/34833761/95183084-179bf700-07e3-11eb-9f95-8a4c402829da.gif)
 
