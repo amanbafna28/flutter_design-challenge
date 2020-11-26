@@ -89,6 +89,7 @@ class FallGuysPage extends StatelessWidget {
                 height: Resp.screenHeight(6, context),
               ),
               liveChannelText(),
+              
               SizedBox(
                 height: Resp.screenHeight(3, context),
               ),
